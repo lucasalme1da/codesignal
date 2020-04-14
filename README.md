@@ -5,15 +5,15 @@
 <details>
 <summary><strong>Intro | 60/60</strong></summary>
 <ol>
-<li><a href="Intro/1%20-%20add.py">add</a></li>
-<li><a href="Intro/2%20-%20centuryFromYear.py">centuryFromYear</a></li>
-<li><a href="Intro/3%20-%20checkPalindrome.py">checkPalindrome</a></li>
-<li><a href="Intro/4%20-%20adjacentElementsProduct.py">adjacentElementsProduct</a></li>
-<li><a href="Intro/5%20-%20shapeArea.py">shapeArea</a></li>
-<li><a href="Intro/6%20-%20makeArrayConsecutive2.py">makeArrayConsecutive2</a></li>
-<li><a href="Intro/7%20-%20almostIncreasingSequence.py">almostIncreasingSequence</a></li>
-<li><a href="Intro/8%20-%20matrixElementsSum.py">matrixElementsSum</a></li>
-<li><a href="Intro/9%20-%20allLongestStrings.py">allLongestStrings</a></li>
+<li><a href="Intro/01%20-%20add.py">add</a></li>
+<li><a href="Intro/02%20-%20centuryFromYear.py">centuryFromYear</a></li>
+<li><a href="Intro/03%20-%20checkPalindrome.py">checkPalindrome</a></li>
+<li><a href="Intro/04%20-%20adjacentElementsProduct.py">adjacentElementsProduct</a></li>
+<li><a href="Intro/05%20-%20shapeArea.py">shapeArea</a></li>
+<li><a href="Intro/06%20-%20makeArrayConsecutive2.py">makeArrayConsecutive2</a></li>
+<li><a href="Intro/07%20-%20almostIncreasingSequence.py">almostIncreasingSequence</a></li>
+<li><a href="Intro/08%20-%20matrixElementsSum.py">matrixElementsSum</a></li>
+<li><a href="Intro/09%20-%20allLongestStrings.py">allLongestStrings</a></li>
 <li><a href="Intro/10%20-%20commonCharacterCount.py">commonCharacterCount</a></li>
 <li><a href="Intro/11%20-%20isLucky.py">isLucky</a></li>
 <li><a href="Intro/12%20-%20sortByHeight.py">sortByHeight</a></li>
@@ -70,15 +70,15 @@
 <details>
 <summary><strong>The Core | 13/162</strong></summary>
 <ol>
-<li><a href="The%20Core/1%20-%20addTwoDigits.py">addTwoDigits</a></li>
-<li><a href="The%20Core/2%20-%20largestNumber.py">largestNumber</a></li>
-<li><a href="The%20Core/3%20-%20candies.py">candies</a></li>
-<li><a href="The%20Core/4%20-%20seatsInTheater.py">seatsInTheater</a></li>
-<li><a href="The%20Core/5%20-%20maxMultiple.py">maxMultiple</a></li>
-<li><a href="The%20Core/6%20-%20circleOfNumbers.py">circleOfNumbers</a></li>
-<li><a href="The%20Core/7%20-%20lateRide.py">lateRide</a></li>
-<li><a href="The%20Core/8%20-%20phoneCall.py">matrixElementsSum</a></li>
-<li><a href="The%20Core/9%20-%20reachNextLevel.py">reachNextLevel</a></li>
+<li><a href="The%20Core/01%20-%20addTwoDigits.py">addTwoDigits</a></li>
+<li><a href="The%20Core/02%20-%20largestNumber.py">largestNumber</a></li>
+<li><a href="The%20Core/03%20-%20candies.py">candies</a></li>
+<li><a href="The%20Core/04%20-%20seatsInTheater.py">seatsInTheater</a></li>
+<li><a href="The%20Core/05%20-%20maxMultiple.py">maxMultiple</a></li>
+<li><a href="The%20Core/06%20-%20circleOfNumbers.py">circleOfNumbers</a></li>
+<li><a href="The%20Core/07%20-%20lateRide.py">lateRide</a></li>
+<li><a href="The%20Core/08%20-%20phoneCall.py">matrixElementsSum</a></li>
+<li><a href="The%20Core/09%20-%20reachNextLevel.py">reachNextLevel</a></li>
 <li><a href="The%20Core/10%20-%20knapsackLight.py">knapsackLight</a></li>
 <li><a href="The%20Core/11%20-%20extraNumber.py">extraNumber</a></li>
 <li><a href="The%20Core/12%20-%20isInfiniteProcess.py">isInfiniteProcess</a></li>
